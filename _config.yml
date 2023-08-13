@@ -6,9 +6,9 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Jie Zhang (张杰)"
-description              : "PhD student at ETH Zurich. "
-repository               : "zj-jayzhang/zj-jayzhang.github.io"
+title                    : "Tianlun Zheng (郑天伦)"
+description              : "Ms student at Fudan University. "
+repository               : "simplify23/simplify23.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
@@ -21,14 +21,14 @@ baidu_site_verification  : code-ZxFK3f4pfb
 
 # Site Author
 author:
-  name             : "Jie Zhang (张杰)"
+  name             : "Tianlun Zheng (郑天伦)"
   avatar           : "images/jay.jpeg"
   bio              : #"ETH Zurich"
-  location         : "Hangzhou"
+  location         : "Shang Hai"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com.hk/citations?user=soDBSE8AAAAJ&hl=zh-CN"
-  email            : "zj_zhangjie@zju.edu.cn"
+  googlescholar    : "https://scholar.google.com.hk/citations?user=cKQnC0gAAAAJ&hl=zh-CN"
+  email            : "zhengtianlun23@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -37,7 +37,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "zj-jayzhang"
+  github           : "simplify23"
   google_plus      :
   keybase          :
   instagram        :
