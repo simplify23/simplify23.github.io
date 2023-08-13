@@ -74,7 +74,7 @@
 [SVTR: Scene Text Recognition with a Single Visual Model](https://www.ijcai.org/proceedings/2022/124) \\
 Yongkun Du, Caiyan Jia, Zhineng Chen<sup>*</sup>, Xiaoting Yin, <b>Tianlun Zheng</b>, Chenxia Li, Yuning Du, Yu-Gang Jiang. (IJCAI 2022)
 
-[comment]: <> (- To facilitate a better understanding of the adversarial vulnerability of the existing FL methods, we conduct comprehensive robustness evaluations on various attacks and adversarial training methods. Moreover, we reveal the negative impacts induced by directly adopting adversarial training in FL, which seriously hurts the test accuracy, especially in non-IID settings. In this work, we propose a novel algorithm called Decision Boundary based Federated Adversarial Training &#40;DBFAT&#41;, which consists of two components &#40;local re-weighting and global regularization&#41; to improve both accuracy and robustness of FL systems.)
+
 </div>
 </div>
 
