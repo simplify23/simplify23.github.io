@@ -72,8 +72,9 @@ Yongkun Du<sup>*</sup>, Caiyan Jia<sup>*</sup>, Zhineng Chen, Xiaoting Yin, <b>T
 </div>
 </div>
 
-- <span style="color: blue; background-color: lightgray; "> IJCV 2023 </span>&nbsp;[Rethinking Data Distillation: Do Not Overlook Calibration](https://arxiv.org/abs/2307.12463), D. Zhu, B. Lei, **Jie Zhang**, Y. Fang, Y. Xie, R. Zhang, D. Xu. 
-- <span style="color: blue; background-color: lightgray; "> ICCV 2023 </span>&nbsp;[TARGET: Federated Class-Continual Learning via Exemplar-Free Distillation](https://arxiv.org/abs/2303.06937), **Jie Zhang**, Chen Chen, Weiming Zhuang, Lingjuan Lv. 
-- <span style="color: blue; background-color: lightgray; "> IJCAI 2023 </span>&nbsp;[IDEAL: Query-Efficient Data-Free Learning from Black-Box Models](https://openreview.net/pdf?id=ConT6H7MWL), **Jie Zhang<sup>*</sup>**, Chen Chen<sup>*</sup>, Lingjuan Lyu. <a href="https://github.com/SonyResearch/IDEAL">code</a> 
-- <span style="color: blue; background-color: lightgray; "> Best Student Paper Award, AAAI 2022 FL workshop </span>&nbsp;[GEAR: A Margin-based Federated Adversarial Training Approach](https://federated-learning.org/fl-aaai-2022/Papers/FL-AAAI-22_paper_34.pdf), Chen Chen<sup>*</sup>, **Jie Zhang**<sup>*</sup>, Lingjuan Lyu. 
+- <span style="color: blue; background-color: lightgray; "> IJCV 2023 </span>&nbsp;[CDistNet: Perceiving Multi-Domain Character Distance for Robust Text Recognition](https://arxiv.org/abs/2111.11011), Tianlun Zheng, Zhineng Chen, Shancheng Fang, Hongtao Xie, Yu-Gang Jiang. 
+- <span style="color: blue; background-color: lightgray; "> ICCV 2023 </span>&nbsp;[MRN: a Multiplexed Routing Network for Multilingual Incremental Text Recognition](https://arxiv.org/abs/2305.14758), Tianlun Zheng, Zhineng Chen, BingChen Huang, Wei Zhang, Yu-Gang Jiang. 
+- <span style="color: blue; background-color: lightgray; "> IJCAI 2023 </span>&nbsp;[TPS++： Attention-Enhanced Thin-Plate Spline for Scene Text Recognition](https://arxiv.org/abs/2305.05322), **Tianlun Zheng**, Zhineng Chen, Jinfeng Bai, Hongtao Xie, Yu-Gang Jiang. <a href="https://github.com/SonyResearch/IDEAL">code</a> 
+
+[comment]: <> (- <span style="color: blue; background-color: lightgray; "> Best Student Paper Award, AAAI 2022 FL workshop </span>&nbsp;[GEAR: A Margin-based Federated Adversarial Training Approach]&#40;https://federated-learning.org/fl-aaai-2022/Papers/FL-AAAI-22_paper_34.pdf&#41;, Chen Chen<sup>*</sup>, **Jie Zhang**<sup>*</sup>, Lingjuan Lyu. )
 
