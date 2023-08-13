@@ -7,5 +7,5 @@ Before that, I completed my Bachelor's degree in Wuhan University of Science and
 
 **Research Interests**: My research lies at the intersection of computer vision, robotics, recommendation algorithms and data mining. My research interests include Text recognition, continual learning and spatio-temporal data efficiency.  
 
-**🤔 Searching for doctoral positions**: I am looking for PhD opportunities in the fields of computer vision, robotics, recommendation algorithms, and machine learning for 2024.  Please feel free to contact me if you are interested
+[comment]: <> (**🤔 Searching for doctoral positions**: I am looking for PhD opportunities in the fields of computer vision, robotics, recommendation algorithms, and machine learning for 2024.  Please feel free to contact me if you are interested)
 
