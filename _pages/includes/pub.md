@@ -20,7 +20,7 @@
 
 [CDistNet: Perceiving Multi-Domain Character Distance for Robust Text Recognition](https://arxiv.org/abs/2111.11011) \\
 <b>Tianlun Zheng</b>, Zhineng Chen<sup>*</sup>, Shancheng Fang, Hongtao Xie, Yu-Gang Jiang. 
-<div>International Journal of Computer Vision 2023</div>
+<div>International Journal of Computer Vision (IJCV 2023)</div>
 <div>
 <a href="https://github.com/simplify23/CDistNet">Code</a>
 <a href="https://arxiv.org/abs/2111.11011">PDF</a> </div>
@@ -33,7 +33,7 @@
 
 [MRN: a Multiplexed Routing Network for Multilingual Incremental Text Recognition](https://arxiv.org/abs/2305.14758) \\
 <b>Tianlun Zheng</b>, Zhineng Chen<sup>*</sup>, BingChen Huang, Wei Zhang, Yu-Gang Jiang. 
-<div>International Conference on Computer Vision 2023</div>
+<div>International Conference on Computer Vision (ICCV 2023)</div>
 <div>
 <a href="https://github.com/simplify23/MRN">Code</a>
 <a href="https://arxiv.org/abs/2305.14758">PDF</a> 
@@ -47,7 +47,7 @@
 
 [TPS++： Attention-Enhanced Thin-Plate Spline for Scene Text Recognition](https://arxiv.org/abs/2305.05322) \\
 <b>Tianlun Zheng</b>, Zhineng Chen<sup>*</sup>, Jinfeng Bai, Hongtao Xie, Yu-Gang Jiang. 
-<div>International Joint Conferences on Artificial Intelligence 2023</div>
+<div>International Joint Conferences on Artificial Intelligence (IJCAI 2023)</div>
 <div>
 <a href="https://github.com/simplify23/TPS_PP">Code</a>
 <a href="https://arxiv.org/abs/2305.05322">PDF</a>
