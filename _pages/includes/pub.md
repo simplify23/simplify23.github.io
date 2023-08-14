@@ -15,7 +15,7 @@
 [//]: # (&#40;<sup>*</sup> indicates corresponding authorship.&#41; )
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCV 2023</div><img src='images/ijcv2023.png' alt="sym"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCV 2023</div><img src='images/ijcv2023.png' height="800" width="400" alt="sym"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [CDistNet: Perceiving Multi-Domain Character Distance for Robust Text Recognition](https://arxiv.org/abs/2111.11011) \\
@@ -28,7 +28,7 @@
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2023</div><img src='images/iccv2023.png' alt="sym"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2023</div><img src='images/iccv2023.png' height="800" width="400" alt="sym"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [MRN: a Multiplexed Routing Network for Multilingual Incremental Text Recognition](https://arxiv.org/abs/2305.14758) \\
@@ -41,7 +41,7 @@
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCAI 2023</div><img src='images/ijcai2023.png' alt="sym"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCAI 2023</div><img src='images/ijcai2023.png' height="800" width="400" alt="sym"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [TPS++： Attention-Enhanced Thin-Plate Spline for Scene Text Recognition](https://arxiv.org/abs/2305.05322) \\
