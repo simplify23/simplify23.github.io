@@ -12,13 +12,13 @@
     - 5th (5 / 1364) place in the Lightweight Text Recognition Academic Competition organized by the Chinese Society of Graphics and Image.
     - 4th place in the Greater Bay Area (Huangpu) International Algorithm Instance Competition - Street View Image Shop Sign Text Recognition Competition.
     
-# 🎖 Honors / Student Services
+# 🎖 Honors \& Student Services
 - Honors
-    - 2017-2018: School Outstanding Scholarship (1%), Xu Jiayin Scholarship (0.2%), Excellent Student Leader.
+    - 2017-2018: School Outstanding Scholarship (1%), **Xu Jiayin Scholarship (0.2%)**, Excellent Student Leader.
 
-    - 2018-2019: School Outstanding Scholarship (1%), Xu Jiayin Scholarship (0.2%), Exemplary Student Model.
+    - 2018-2019: School Outstanding Scholarship (1%), **Xu Jiayin Scholarship (0.2%)**, Exemplary Student Model.
 
-    - 2019-2021: School Outstanding Scholarship (1%), National Scholarship (0.2%), Exemplary Student Model.
+    - 2019-2021: School Outstanding Scholarship (1%), **National Scholarship (0.2%)**, Exemplary Student Model.
 
     - 2021-2022: Outstanding Graduate, Excellent Recommended Student Scholarship (5%). 
     
