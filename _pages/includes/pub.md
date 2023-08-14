@@ -19,9 +19,11 @@
 <div class='paper-box-text' markdown="1">
 
 [CDistNet: Perceiving Multi-Domain Character Distance for Robust Text Recognition](https://arxiv.org/abs/2111.11011) \\
-<b>Tianlun Zheng</b>, Zhineng Chen<sup>*</sup>, Shancheng Fang, Hongtao Xie, Yu-Gang Jiang. (IJCV 2023)
+<b>Tianlun Zheng</b>, Zhineng Chen<sup>*</sup>, Shancheng Fang, Hongtao Xie, Yu-Gang Jiang. 
+(IJCV 2023)
+<div>
 <a href="https://github.com/simplify23/CDistNet">Code</a>
-<a href="https://arxiv.org/abs/2111.11011">PDF</a>
+<a href="https://arxiv.org/abs/2111.11011">PDF</a> </div>
 </div>
 </div>
 
@@ -30,9 +32,11 @@
 <div class='paper-box-text' markdown="1">
 
 [MRN: a Multiplexed Routing Network for Multilingual Incremental Text Recognition](https://arxiv.org/abs/2305.14758) \\
-<b>Tianlun Zheng</b>, Zhineng Chen<sup>*</sup>, BingChen Huang, Wei Zhang, Yu-Gang Jiang. (ICCV 2023) 
+<b>Tianlun Zheng</b>, Zhineng Chen<sup>*</sup>, BingChen Huang, Wei Zhang, Yu-Gang Jiang. (ICCV 2023)
+<div>
 <a href="https://github.com/simplify23/MRN">Code</a>
-<a href="https://arxiv.org/abs/2305.14758">PDF</a>
+<a href="https://arxiv.org/abs/2305.14758">PDF</a> 
+</div>
 </div>
 </div>
 
@@ -42,8 +46,10 @@
 
 [TPS++： Attention-Enhanced Thin-Plate Spline for Scene Text Recognition](https://arxiv.org/abs/2305.05322) \\
 <b>Tianlun Zheng</b>, Zhineng Chen<sup>*</sup>, Jinfeng Bai, Hongtao Xie, Yu-Gang Jiang. (IJCAI 2023) 
+<div>
 <a href="https://github.com/simplify23/TPS_PP">Code</a>
 <a href="https://arxiv.org/abs/2305.05322">PDF</a>
+</div>
 </div>
 </div>
 
