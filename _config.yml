@@ -6,7 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Tianlun Zheng (郑天伦)"
+title                    : "Tianlun Zheng"
 description              : "Master's student at Fudan University. "
 repository               : "simplify23/simplify23.github.io"
 google_scholar_stats_use_cdn : true

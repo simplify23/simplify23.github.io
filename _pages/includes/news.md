@@ -12,7 +12,7 @@
     <li><strong>2023.08</strong>: One papers is accepted by IJCV 2023 (first author)!</li>
     <li><strong>2023.07</strong>: One papers is accepted by ICCV 2023 (first author)!</li>
     <li><strong>2023.05</strong>: One papers is accepted by IJCAI 2023 (first author)!</li>
-    <li><strong>2023.05</strong>: One papers is accepted by IJCAI 2022 (first author)!</li>
+    <li><strong>2023.05</strong>: One papers is accepted by IJCAI 2022!</li>
   </ul>
 </div>
 
