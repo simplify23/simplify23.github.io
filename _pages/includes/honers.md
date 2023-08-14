@@ -13,7 +13,17 @@
     - Second Prize in the Human Identification Category at the China Service Robot Competition, May 2018.
 #🎖 Honors & Student Services
 - Honors
+    - 2017-2018: School Outstanding Scholarship (1%), Xu Jiayin Scholarship (0.2%), Excellent Student Leader.
+
+    - 2018-2019: School Outstanding Scholarship (1%), Xu Jiayin Scholarship (0.2%), Exemplary Student Model.
+
+    - 2019-2021: School Outstanding Scholarship (1%), National Scholarship (0.2%), Exemplary Student Model.
+
+    - 2021-2022: Outstanding Graduate, Excellent Recommended Student Scholarship (5%). 
+    
+    - 2022-2023: Outstanding Communist Youth League Member.
+    
 - Student Services
     - Class Monitor, Class Academic Representative, Vice President of School Guitar Association.
-    - Class Academic Representative,
+    - Class Academic Representative, Vice President of the School's Simulated Robot Soccer Association.
 
