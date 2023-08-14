@@ -7,7 +7,9 @@
 # 💬 Academic Services
 
 - Conference Reviewer:
-    - ACM MM 2021-2023 / AAAI 2022 / ICME 2022-2023  
+    - ACM International Conference on Multimedia (ACM MM 2021-2023) 
+    - AAAI Conference on Artificial Intelligence (AAAI 2022)
+    - The IEEE International Conference on Multimedia & Expo (ICME 2022-2023)  
   
 
 - Journal Reviewer:
