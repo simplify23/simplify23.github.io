@@ -12,10 +12,10 @@
 }
 </style>
 
-(<sup>*</sup> indicates corresponding authorship.) 
+[//]: # (&#40;<sup>*</sup> indicates corresponding authorship.&#41; )
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCV 2023</div><img src='images/ijcv2023.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCV 2023</div><img src='images/ijcv2023.png' alt="sym"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [CDistNet: Perceiving Multi-Domain Character Distance for Robust Text Recognition](https://arxiv.org/abs/2111.11011) \\
@@ -26,22 +26,18 @@
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2023</div><img src='images/iccv2023.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2023</div><img src='images/iccv2023.png' alt="sym"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [MRN: a Multiplexed Routing Network for Multilingual Incremental Text Recognition](https://arxiv.org/abs/2305.14758) \\
 <b>Tianlun Zheng</b>, Zhineng Chen<sup>*</sup>, BingChen Huang, Wei Zhang, Yu-Gang Jiang. (ICCV 2023) 
 <a href="https://github.com/simplify23/MRN">Code</a>
 <a href="https://arxiv.org/abs/2305.14758">PDF</a>
-[comment]: <> (- In this work, we investigate the label distribution skew from a statistical view. We demonstrate both theoretically and empirically that previous methods based on softmax crossentropy are not suitable, which can result in local models heavily overfitting to minority classes and missing classes. Then, we propose FedLC &#40;Federated learning via Logits)
-
-[comment]: <> (Calibration&#41;, which calibrates the logits before softmax cross-entropy according to the probability of occurrence of each class.)
-
 </div>
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCAI 2023</div><img src='images/ijcai2023.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCAI 2023</div><img src='images/ijcai2023.png' alt="sym"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [TPS++： Attention-Enhanced Thin-Plate Spline for Scene Text Recognition](https://arxiv.org/abs/2305.05322) \\
