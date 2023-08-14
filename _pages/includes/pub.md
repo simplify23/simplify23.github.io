@@ -20,7 +20,7 @@
 
 [CDistNet: Perceiving Multi-Domain Character Distance for Robust Text Recognition](https://arxiv.org/abs/2111.11011) \\
 <b>Tianlun Zheng</b>, Zhineng Chen<sup>*</sup>, Shancheng Fang, Hongtao Xie, Yu-Gang Jiang. 
-<div>International Journal of Computer Vision (IJCV 2023)</div>
+International Journal of Computer Vision (IJCV 2023)
 <div>
 <a href="https://github.com/simplify23/CDistNet">Code</a>
 <a href="https://arxiv.org/abs/2111.11011">PDF</a> </div>
@@ -33,7 +33,7 @@
 
 [MRN: a Multiplexed Routing Network for Multilingual Incremental Text Recognition](https://arxiv.org/abs/2305.14758) \\
 <b>Tianlun Zheng</b>, Zhineng Chen<sup>*</sup>, BingChen Huang, Wei Zhang, Yu-Gang Jiang. 
-<div>International Conference on Computer Vision (ICCV 2023)</div>
+International Conference on Computer Vision (ICCV 2023)
 <div>
 <a href="https://github.com/simplify23/MRN">Code</a>
 <a href="https://arxiv.org/abs/2305.14758">PDF</a> 
@@ -47,7 +47,7 @@
 
 [TPS++： Attention-Enhanced Thin-Plate Spline for Scene Text Recognition](https://arxiv.org/abs/2305.05322) \\
 <b>Tianlun Zheng</b>, Zhineng Chen<sup>*</sup>, Jinfeng Bai, Hongtao Xie, Yu-Gang Jiang. 
-<div>International Joint Conferences on Artificial Intelligence (IJCAI 2023)</div>
+International Joint Conferences on Artificial Intelligence (IJCAI 2023)
 <div>
 <a href="https://github.com/simplify23/TPS_PP">Code</a>
 <a href="https://arxiv.org/abs/2305.05322">PDF</a>
@@ -77,6 +77,4 @@
 - <span style="color: blue; background-color: lightgray; "> ICCV 2023 </span>&nbsp;[MRN: a Multiplexed Routing Network for Multilingual Incremental Text Recognition](https://arxiv.org/abs/2305.14758), Tianlun Zheng, Zhineng Chen, BingChen Huang, Wei Zhang, Yu-Gang Jiang. 
 - <span style="color: blue; background-color: lightgray; "> IJCAI 2023 </span>&nbsp;[TPS++： Attention-Enhanced Thin-Plate Spline for Scene Text Recognition](https://arxiv.org/abs/2305.05322), **Tianlun Zheng**, Zhineng Chen, Jinfeng Bai, Hongtao Xie, Yu-Gang Jiang. 
 - <span style="color: blue; background-color: lightgray; "> IJCAI 2022 Long </span>&nbsp;[SVTR: Scene Text Recognition with a Single Visual Model](https://arxiv.org/abs/2305.05322), Yongkun Du, Caiyan Jia, Zhineng Chen, Xiaoting Yin, Tianlun Zheng, Chenxia Li, Yuning Du, Yu-Gang Jiang. 
-
-[comment]: <> (- <span style="color: blue; background-color: lightgray; "> Best Student Paper Award, AAAI 2022 FL workshop </span>&nbsp;[GEAR: A Margin-based Federated Adversarial Training Approach]&#40;https://federated-learning.org/fl-aaai-2022/Papers/FL-AAAI-22_paper_34.pdf&#41;, Chen Chen<sup>*</sup>, **Jie Zhang**<sup>*</sup>, Lingjuan Lyu. )
 
