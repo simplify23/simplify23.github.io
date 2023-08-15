@@ -76,10 +76,12 @@ International Joint Conferences on Artificial Intelligence (IJCAI 2023)
 - <span style="color: blue; background-color: lightgray; "> IJCV 2023 </span>&nbsp;[CDistNet: Perceiving Multi-Domain Character Distance for Robust Text Recognition](https://arxiv.org/abs/2111.11011), Tianlun Zheng, Zhineng Chen, Shancheng Fang, Hongtao Xie, Yu-Gang Jiang. 
 - <span style="color: blue; background-color: lightgray; "> ICCV 2023 </span>&nbsp;[MRN: a Multiplexed Routing Network for Multilingual Incremental Text Recognition](https://arxiv.org/abs/2305.14758), Tianlun Zheng, Zhineng Chen, BingChen Huang, Wei Zhang, Yu-Gang Jiang. 
 - <span style="color: blue; background-color: lightgray; "> IJCAI 2023 </span>&nbsp;[TPS++: Attention-Enhanced Thin-Plate Spline for Scene Text Recognition](https://arxiv.org/abs/2305.05322), **Tianlun Zheng**, Zhineng Chen, Jinfeng Bai, Hongtao Xie, Yu-Gang Jiang. 
-- <span style="color: blue; background-color: lightgray; "> IJCAI 2022 Oral </span>&nbsp;[SVTR: Scene Text Recognition with a Single Visual Model](https://arxiv.org/abs/2305.05322), Yongkun Du, Caiyan Jia, Zhineng Chen, Xiaoting Yin, Tianlun Zheng, Chenxia Li, Yuning Du, Yu-Gang Jiang. 
+- <span style="color: blue; background-color: lightgray; "> IJCAI 2022 Oral </span>&nbsp;[SVTR: Scene Text Recognition with a Single Visual Model](https://arxiv.org/abs/2305.05322), Yongkun Du, Caiyan Jia, Zhineng Chen, Xiaoting Yin, Tianlun Zheng, Chenxia Li, Yuning Du, Yu-Gang Jiang.
+- <span style="color: blue; background-color: lightgray; "> ICIEA 2020 </span>&nbsp;[A Novel Method based on Character Segmentation for Slant Chinese Screen-render Text Detection and Recognition](https://ieeexplore.ieee.org/document/9248381), Tianlun Zheng, Xiaofeng Wang, Xin Yuan, Shiqin Wang. 
 
-## Invention Patent
-- Invention Patent "A Method and Apparatus for Image Text Correction Based on Attention-Enhanced Thin Plate Spline Transformation," Application Number 202310536598.5
-- Invention Patent "A Method for Scene Text Recognition Based on Character Distance Perception," Application Number 202210689812.6
-- Invention Patent "A Badminton Motion Analysis System and Method," Application Number 201910981141.9
-- Invention Patent "Machine Vision-Based Planar Four-Bar Linkage Mechanism Pose Detection System and Detection Method," Granted
+
+## 💾 Invention Patent
+- "A Method and Apparatus for Image Text Correction Based on Attention-Enhanced Thin Plate Spline Transformation," Application Number 202310536598.5
+- "A Method for Scene Text Recognition Based on Character Distance Perception," Application Number 202210689812.6
+- "A Badminton Motion Analysis System and Method," Application Number 201910981141.9
+- "Machine Vision-Based Planar Four-Bar Linkage Mechanism Pose Detection System and Detection Method," Granted
