@@ -1,5 +1,5 @@
 
-# 📝 Selected Publications 
+# 📝 Publications 
 
 <style>
 .box {
