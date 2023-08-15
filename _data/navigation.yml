@@ -10,10 +10,10 @@ main:
     url: "/#-publications"
 
   - title: "Competitions"
-    url: "/#-Competitions"
+    url: "/#-competitions"
 
   - title: "Honors \ Student Services"
-    url: "/#-Honors \ Student Services"
+    url: "/#-honors \ Student Services"
 
   - title: "Educations"
     url: "/#-educations"
