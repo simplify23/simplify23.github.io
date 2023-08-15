@@ -24,7 +24,7 @@ International Journal of Computer Vision (IJCV 2023)
 <a href="https://github.com/simplify23/CDistNet">Code</a>
 <a href="https://arxiv.org/abs/2111.11011">PDF</a>
 <div>
-Our work are promoted by <a href="https://bbs.huaweicloud.com/blogs/348534">HuaiWei Tech Blog</a></div>
+Our work is promoted by <a href="https://bbs.huaweicloud.com/blogs/348534">HuaiWei Tech Blog</a></div>
 - The lack of alignment between visual and semantic aspects in attention can lead to attention drift. Positional attention lacks learnable positional supervision. CDistNet incorporates additional learnable character position branches to separately query semantic and visual cues, thereby enhancing character position alignment and the integration of visual-semantic cues.
 </div>
 </div>
@@ -39,7 +39,7 @@ International Conference on Computer Vision (ICCV 2023)
 <a href="https://github.com/simplify23/MRN">Code</a>
 <a href="https://arxiv.org/abs/2305.14758">PDF</a> 
 <div>
-Our work are promoted by <a href="https://mp.weixin.qq.com/s/XAQ-FSyLLLZ9O1kVNjZhUg">CVer</a></div>
+Our work is promoted by <a href="https://mp.weixin.qq.com/s/XAQ-FSyLLLZ9O1kVNjZhUg">CVer</a></div>
 - <b>This is the first work that combines incremental learning with scene text.</b> Unlike other incremental learning scenarios, scene text exhibits unique characteristics, leading to the rehearsal-imbalance issue. To address this, we propose the Multiplexed Routing Network, which reduces reliance on the rehearsal set. Compared to existing state-of-the-art methods, our approach achieves accuracy improvements ranging from 10.3% to 27.4%.
 </div>
 </div>
