@@ -23,7 +23,7 @@
 International Journal of Computer Vision (IJCV 2023)
 <div>
 <a href="https://github.com/simplify23/CDistNet">Code</a>
-<a href="https://arxiv.org/abs/2111.11011">PDF</a> <a> Our work are promoted by [HuaiWei Tech Blog](https://bbs.huaweicloud.com/blogs/348534) </a></div>
+<a href="https://arxiv.org/abs/2111.11011">PDF</a> Our work are promoted by <a href="https://bbs.huaweicloud.com/blogs/348534">HuaiWei Tech Blog</a></div>
 - The lack of alignment between visual and semantic aspects in attention can lead to attention drift. Positional attention lacks learnable positional supervision. Multi-Domain Character Distance Perception (MDCDP). It incorporates additional learnable character position branches to separately query semantic and visual cues, thereby enhancing character position alignment and the integration of visual-semantic cues.
 </div>
 </div>

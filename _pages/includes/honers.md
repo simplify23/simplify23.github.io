@@ -9,7 +9,8 @@
     - Second Prize in the Human Identification Category at [the China Service Robot Competition](http://crc.drct-caa.org.cn/index.php/race/view?id=479), May 2018.
     - First Prize in the Second "Longteng Cup" National College Student Creative and Innovation Contest, November 2019.
 - ‍🎨 Computer Vision
-    - 5th (5 / 1364) place in the [Lightweight Text Recognition Academic Competition](https://aistudio.baidu.com/competition/detail/75/0/introduction) organized by the Chinese Society of Graphics and Image, August 2021.
+    - 5th (5 / 1364) place in the [Lightweight Text Recognition Academic Competition](https://aistudio.baidu.com/competition/detail/75/0/introduction) organized by the Chinese Society of Graphics and Image.   
+      The program was promoted by **Baidu Official Account** [Link](https://mp.weixin.qq.com/s/R2JS7Zar-lZ4knQNTqpmyQ), August 2021.
     - 4th place in the Greater Bay Area (Huangpu) International Algorithm Instance Competition - [Street View Image Shop Sign Text Recognition Competition](https://www.cvmart.net/race/10351/base), November 2022.
     
 # 🎖 Honors \ Student Services
