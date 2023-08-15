@@ -24,7 +24,7 @@ International Journal of Computer Vision (IJCV 2023)
 <a href="https://github.com/simplify23/CDistNet">Code</a>
 <a href="https://arxiv.org/abs/2111.11011">PDF</a>
 <div>
-Our work are promoted by HuaiWei Tech Blog <a href="https://bbs.huaweicloud.com/blogs/348534">Link</a></div>
+Our work are promoted by <a href="https://bbs.huaweicloud.com/blogs/348534">HuaiWei Tech Blog</a></div>
 - The lack of alignment between visual and semantic aspects in attention can lead to attention drift. Positional attention lacks learnable positional supervision. CDistNet incorporates additional learnable character position branches to separately query semantic and visual cues, thereby enhancing character position alignment and the integration of visual-semantic cues.
 </div>
 </div>
@@ -39,7 +39,8 @@ International Conference on Computer Vision (ICCV 2023)
 <a href="https://github.com/simplify23/MRN">Code</a>
 <a href="https://arxiv.org/abs/2305.14758">PDF</a> 
 <div>
-Our work are promoted by CVer <a href="https://mp.weixin.qq.com/s/XAQ-FSyLLLZ9O1kVNjZhUg">Link</a>
+Our work are promoted by <a href="https://mp.weixin.qq.com/s/XAQ-FSyLLLZ9O1kVNjZhUg">CVer</a>
+- **This is the first work that combines incremental learning with scene text.** Unlike other incremental learning scenarios, scene text exhibits unique characteristics, leading to the rehearsal-imbalance issue. To address this, we propose the Multiplexed Routing Network, which reduces reliance on the rehearsal set. Compared to existing state-of-the-art methods, our approach achieves accuracy improvements ranging from 10.3% to 27.4% across various settings.
 </div>
 </div>
 </div>
@@ -54,6 +55,7 @@ International Joint Conferences on Artificial Intelligence (IJCAI 2023)
 <a href="https://github.com/simplify23/TPS_PP">Code</a>
 <a href="https://arxiv.org/abs/2305.05322">PDF</a>
 <div>
+- **TPS++ is the first work to introduce the attention mechanism into the text correction process.** Traditional text correction methods focus on optimizing the localization network, lacking further modifications to the correction transformation formula. This can lead to unnatural deformations and character out-of-bounds issues. We introduce an attention mechanism to provide more flexible correction capabilities and shift the correction process from the image level to the feature level, reducing the computational overhead of correction. Experimental results demonstrate that TPS++ can be flexibly integrated into different backbone networks and recognizers, achieving state-of-the-art performance.
 </div>
 </div>
 </div>
