@@ -13,7 +13,7 @@
       The program was promoted by **Baidu Official Account** [Link](https://mp.weixin.qq.com/s/R2JS7Zar-lZ4knQNTqpmyQ), August 2021.
     - 4th place in the Greater Bay Area (Huangpu) International Algorithm Instance Competition - [Street View Image Shop Sign Text Recognition Competition](https://www.cvmart.net/race/10351/base), November 2022.
     
-# 🎖 Honors \ Student Services
+# 🎖 Honors and Student Services
 - 🏅Honors
     - 2017-2018: School Outstanding Scholarship (1%), **Xu Jiayin Scholarship (0.2%)**, Excellent Student Leader.
 
