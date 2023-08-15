@@ -53,7 +53,7 @@ Our work are promoted by <a href="https://mp.weixin.qq.com/s/XAQ-FSyLLLZ9O1kVNjZ
 International Joint Conferences on Artificial Intelligence (IJCAI 2023)
 <a href="https://github.com/simplify23/TPS_PP">Code</a>
 <a href="https://arxiv.org/abs/2305.05322">PDF</a>
-<div>
+
 - <b>TPS++ is the first work that introduces the attention mechanism into text rectification.</b> Traditional rectification methods primarily focus on optimizing the localization network, neglecting modifications to the rectification transformation formula, which result in unnatural deformations and character out-of-bounds. TPS++ introduces the attention mechanism to offer enhanced flexibility in rectification and shifts the rectification process from the image level to the feature level, thus reducing computational costs. Experimental results improve that TPS++ can seamlessly integrate into various backbone networks and recognizers, delivering state-of-the-art performance.
 </div>
 </div>
