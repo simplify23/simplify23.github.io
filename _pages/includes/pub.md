@@ -24,7 +24,7 @@ International Journal of Computer Vision (IJCV 2023)
 <a href="https://github.com/simplify23/CDistNet">Code</a>
 <a href="https://arxiv.org/abs/2111.11011">PDF</a>
 <div>
-Our work are promoted by <a href="https://bbs.huaweicloud.com/blogs/348534">HuaiWei Tech Blog</a></div>
+Our work are promoted by HuaiWei Tech Blog <a href="https://bbs.huaweicloud.com/blogs/348534">Link</a></div>
 - The lack of alignment between visual and semantic aspects in attention can lead to attention drift. Positional attention lacks learnable positional supervision. CDistNet incorporates additional learnable character position branches to separately query semantic and visual cues, thereby enhancing character position alignment and the integration of visual-semantic cues.
 </div>
 </div>
@@ -39,7 +39,7 @@ International Conference on Computer Vision (ICCV 2023)
 <a href="https://github.com/simplify23/MRN">Code</a>
 <a href="https://arxiv.org/abs/2305.14758">PDF</a> 
 <div>
-Our work are promoted by <a href="https://mp.weixin.qq.com/s/XAQ-FSyLLLZ9O1kVNjZhUg">CVer</a>
+Our work are promoted by CVer <a href="https://mp.weixin.qq.com/s/XAQ-FSyLLLZ9O1kVNjZhUg">Link</a>
 </div>
 </div>
 </div>
