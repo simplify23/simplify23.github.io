@@ -5,7 +5,9 @@ Before that, I completed my Bachelor's degree in Wuhan University of Science and
 
 <!-- Previously, I interned at Sony AI for half a year, focusing on AI security and model compression. Before that, I also interned at Tencent Youtu Lab for one year, exploring federated learning and adversarial attacks. -->
 
-**Research Interests**: My research lies at the intersection of computer vision, robotics and data mining. My research interests include text recognition, continual learning, spatio-temporal data efficiency and simulated robot.  
+**Research Interests**: I primarily focus on the cross-modal representation and alignment of visual-language models in text recognition. Specifically, my research involves the integration of semantics and visual cues in scene text, modeling image features and character positions in text correction, and the fusion of language expertise in continuous multilingual texts.
+
+<!-- **Research Interests**: My research lies at the intersection of computer vision, robotics and data mining. My research interests include text recognition, continual learning, spatio-temporal data efficiency and simulated robot. -->
 
 My personal tech blog has surpassed 210,000 views! If you're interested in it, please click [here](https://blog.csdn.net/qq_35307005?spm=1000.2115.3001.5343) 📃. 
 
