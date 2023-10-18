@@ -9,12 +9,12 @@
 
 <div class="scrollable">
   <ul>
-    <li><strong>2023.10</strong>: 🥳 I have received the graduate national scholarship with a top-ranked (1/380) overall performance."!</li>
+    <li><strong>2023.10</strong>: 🥳 I have received the graduate national scholarship with a top-ranked (1/380) overall performance!</li>
     <li><strong>2023.08</strong>: 🎉 One papers is accepted by IJCV 2023 (first author)!</li>
     <li><strong>2023.07</strong>: 🎉 One papers is accepted by ICCV 2023 (first author)!</li>
     <li><strong>2023.05</strong>: 🎉 One papers is accepted by IJCAI 2023 (first author)!</li>
     <li><strong>2022.05</strong>: One papers is accepted by IJCAI 2022!</li>
-    <li><strong>2020.12</strong>: 🥳 I have received the undergraduate national scholarship with a top-ranked (1/236) overall performance</li>
+    <li><strong>2020.12</strong>: 🥳 I have received the undergraduate national scholarship with a top-ranked (1/236) overall performance! </li>
     <li><strong>2019.08</strong>: ⚽ My team won 2nd place in Simurosot Large Size (1st person) at 24th FIRA RoboWorld Cup!</li>
     <li><strong>2019.08</strong>: ⚽ My team won 3rd place in Simurosot Middle Size (3rd person) at 24th FIRA RoboWorld Cup!</li>
   </ul>
